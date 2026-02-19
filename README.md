@@ -60,10 +60,10 @@ Raw Data → EDA & Cleaning → Feature Engineering → Train/Test Split
 ## 📊 Results & Visualizations
 
 ### ROC Curve Comparison
-![ROC Curve](assets/roc_curve.png)
+![ROC Curve](download(47).png)
 
 ### SHAP Feature Importance
-![SHAP Summary](assets/shap_summary.png)
+![SHAP Summary](download(48).png)
 
 **Top factors driving churn:**
 - `tenure` — shorter tenure = higher churn risk
